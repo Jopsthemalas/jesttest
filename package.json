@@ -1,0 +1,19 @@
+{
+  "name": "aula-java-script",
+  "version": "1.0.0",
+  "description": "teste de jast",
+  "main": "soma.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "CI",
+    "CD",
+    "JEST"
+  ],
+  "author": "josé",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
